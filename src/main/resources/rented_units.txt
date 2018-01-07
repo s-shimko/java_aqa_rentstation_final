@@ -1,0 +1,3 @@
+Accessory, Carrier, 2.1, Summer, Bike, 05-12-2017 21:05:03
+Equipment, Snowboard, 2.7, Winter, 02-12-2017 21:05:03
+Equipment, Car, 2.6, Demi, 07-01-2018 15:16:13

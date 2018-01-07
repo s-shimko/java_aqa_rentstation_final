@@ -1,0 +1,3 @@
+Accessory, Helmet, 1.4, Winter, Snowboard
+Accessory, Carrier, 2.1, Summer, Bike
+Equipment, Bike, 2.5, Summer
